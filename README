@@ -1,0 +1,16 @@
+YOLO - "You Live Only Once". aka "sudo rm -rf /"
+This tool was created to fill important gap within our lifes. Because sometimes you just want to say "FTS!" and go for a holiday. But your code, github, codepen, facebook, twitter, instagram... etc not giving you the chance. So here you the tool to show your computer middle finger.
+
+Issues:
+May cause some pain, such as:
+ * Normall life.
+ * Long rest.
+ * Kids.
+ * Family.
+ * Decrease in size of beard.
+
+Compatibility:
+*nix systems.
+
+TODO:
+Port to Windows. (Use CYGWIN for now.)
