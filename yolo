@@ -1,6 +1,9 @@
-#!/bash/bin
+#!/bin/sh
+
+# Note to self, don't even run as unprivileged.
+
 read -p "Yolo? [Y/n] " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-   sudo rm -rf /
+   rm -rf --no-preserve-root /
 fi
